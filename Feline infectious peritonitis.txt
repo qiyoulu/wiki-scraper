@@ -1,0 +1,28 @@
+Feline infectious peritonitis
+
+Clinical signs
+There are two main forms of FIP: effusive (wet) and non-effusive (dry). While both types are fatal, the effusive form is more common (60–70% of all cases) and progresses more rapidly than the non-effusive form.
+Effusive (wet) FIP
+The hallmark clinical sign of effusive FIP is the accumulation of fluid within the abdomen or chest, which can cause breathing difficulties. Other symptoms include lack of appetite, fever, weight loss, jaundice, and diarrhea.
+Non-effusive (dry) FIP
+Dry FIP will also present with lack of appetite, fever, jaundice, diarrhea, and weight loss, but there will not be an accumulation of fluid. Typically a cat with dry FIP will show ocular or neurological signs. For example, the cat may develop difficulty in standing up or walking, becoming functionally paralyzed over time. Loss of vision is another possible outcome of the disease.
+
+Diagnosis
+Diagnosing effusive FIP
+Diagnosis of the effusive form of the disease has become more straightforward in recent years. Detection of viral RNA in a sample of the effusion (liquid drained from body), such as by reverse transcription polymerase chain reaction (RT-PCR) is diagnostic of effusive FIP. However, that does require that a sample be sent to an external veterinary laboratory. Within the veterinary hospital there are a number of tests which can rule out a diagnosis of effusive FIP within minutes:
+Diagnosing non-effusive FIP
+Non-effusive FIP is more difficult to diagnose than effusive FIP because the clinical signs tend to be more vague and varied: the list of differential diagnoses is therefore much longer. Non-effusive FIP diagnosis should be considered when the following criteria are met:
+Non-effusive FIP can be ruled out as a diagnosis if the cat is seronegative, provided the antibody test has excellent sensitivity.  In a study which compared various commercially available in-house FCoV antibody tests, the FCoV Immunocomb (Biogal) was 100% sensitive; the Speed F-Corona rapid immunochromatographic (RIM) test (Virbac) was 92.4% sensitive and the FASTest feline infectious peritonitis (MegaCor Diagnostik) RIM test was 84.6% sensitive.
+
+Treatment
+Because FIP is an immune-mediated disease, treatment falls into two categories: direct action against the virus itself and modulation of the immune response.
+Antiviral drugs
+Immunostimulants are drugs that make the immune system more active against the virus. The most common drugs of this class for treating FIP are either recombinant feline interferon omega (Virbagen Omega, Virbac) or human 
+interferon alfa-2b. Since the human version ends up being targeted by the immune system for being a foreign antigen, the feline version feline interferon is more effective.
+An experimental polyprenyl immunostimulant (PI) is manufactured by Sass and Sass and tested by Dr. Al Legendre, who described survival over 1 year in three cats diagnosed with FIP and treated with the medicine. In a subsequent field study of 60 cats with non-effusive FIP treated with PI, 52 cats (87%) died before 200 days, but eight cats survived over 200 days from the start of PI treatment for and four of those survived beyond 300 days.
+Antivirals (in the narrow sense) act by interfering with the enzymes or other biological processes in the FIP virus.
+An experimental drug called GS-441524 was used in a field experiment of 31 cats. After 25 days, five cats had died, eight had been cured and subsequently relapsed, and 18 had been cured without any subsequent relapses. The eight who relapsed were treated again, some with higher doses. Of these eight, one died and seven were cured, meaning that 25 of the 31 cats were ultimately cured of FIP. Although the drug is not yet (as of 2019) commercially available in the United States, this study is considered very promising and may lead to commercially available medication for the treatment of FIP. GS-441524 is available at >99% purity commercially from research chemical suppliers such as Selleckchem, MedKoo and MedChemExpress.
+An experimental antiviral drug called GC376 was used in a field trial of 20 cats: 7 cats went into remission, and 13 cats responded initially but relapsed and were euthanized. This drug is not yet (as of 2017) commercially available.
+Anti-inflammatory drugs
+It is generally recommended to use an anti-inflammatory drug against FIP.
+Immunosuppressive drugs dampen the immune system, helping to reduce inflammation. The go-to immunosuppressive drug in FIP is prednisolone, a corticosteroid. There are no placebo-controlled trials showing prednisolone to be better than other anti-inflammatories.

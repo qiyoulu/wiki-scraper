@@ -1,0 +1,8 @@
+Vaccine-associated sarcoma
+
+Diagnosis
+VAS appears as a rapidly growing firm mass in and under the skin.  The mass is often quite large when first detected and can become ulcerated or infected.  It often contains fluid-filled cavities, probably because of its rapid growth.  Diagnosis of VAS is through a biopsy.  The biopsy will show the presence of a sarcoma, but information like location and the presence of inflammation or necrosis will increase the suspicion of VAS.  It is possible for cats to have a granuloma form after vaccination, so it is important to differentiate between the two before radical surgery is performed.  One guideline for biopsy is if a growth is present three months after surgery, if a growth is greater than two centimeters, or if a growth is becoming larger one month after vaccination.
+X-rays are taken prior to surgery because about one in five cases of VAS will develop metastasis, usually to the lungs but possibly to the lymph nodes or skin.
+
+Treatment
+Treatment of VAS is through aggressive surgery.  As soon as the tumor is recognized, it should be removed with very wide margins to ensure complete removal.  Treatment may also include chemotherapy or radiation therapy.  The most significant prognostic factor is initial surgical treatment.  One study showed that cats with radical (extensive) initial surgery had a median time to recurrence of 325 days versus 79 days for cats with marginal initial excision.  The expression of a mutated form of p53, a tumor suppressor gene, is found commonly in VAS and indicates a poorer prognosis.

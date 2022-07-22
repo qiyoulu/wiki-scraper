@@ -1,0 +1,12 @@
+Feline hyperaldosteronism
+
+Symptoms
+Most affected cats present with muscular weakness and/or ocular signs of hypertension. Signs of muscle weakness can include a plantigrade stance of the hindlimbs, cervical ventroflexion, inability to jump, lateral recumbency, or collapse. Ocular signs of arterial hypertension include mydriasis, hyphema, or blindness due to retinal detachment and/or intraocular hemorrhages. A palpable mass in the cranial abdomen is another potential finding.
+
+Diagnosis
+Persistently increased blood pressure may also be due to kidney disease or hyperthyroidism. When a cause is not readily apparent, and especially when hypokalemia is identified, hyperaldosteronism should be considered. Diagnostic imaging, usually beginning with abdominal ultrasound, may identify that one or both adrenal glands are enlarged.  Imaging may also detect metastasis and usually includes radiographs of the chest in addition to abdominal ultrasound and/or computerized tomography (CT).
+The ratio of plasma aldosterone concentration (PAC) to plasma renin activity (PRA) can be used as a screening test for PHA. In cats with unilateral or bilateral zona glomerulosa tumors, the PAC may be very high while the PRA is completely suppressed. In cats with idiopathic bilateral nodular hyperplasia of the zona glomerulosa, the PAC may be slightly elevated or high normal. In the presence of hypokalemia even a mildly elevated aldosterone should be considered inappropriately high. A high-normal or elevated PAC with a low PRA indicates persistent aldosterone synthesis in the presence of little or no stimulation of the renin–angiotensin system.
+
+Treatment
+Unilateral primary hyperaldosteronism due to an adrenocortical adenoma or adrenocarcinoma can be potentially cured surgically. Unilateral adrenalectomy is the treatment of choice for unilateral PHA. Potential complications include hemorrhage and postoperative hypokalemia. With complete removal of the tumor, prognosis is excellent.
+Bilateral primary hyperaldosteronism due to hyperplasia of the zona glomerulosa or metastasized adrenocortical adenocarcinoma should be treated medically. Medical therapy is aimed at normalizing blood pressure and plasma potassium concentration. Mineralocorticoid receptor blockers, such as spironolactone, coupled with potassium supplementation are the most commonly used treatments. Specific therapy for treating high blood pressure (e.g., amlodipine), should be added if necessary.
