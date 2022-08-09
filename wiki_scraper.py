@@ -19,8 +19,8 @@ def scrape(link):
                     output += section.text.strip() + '\n'
     f.write(re.sub('[\[].*?[\]]', '', output.strip()))
 
-if __name__ == '__main__':
-    page = requests.get('https://en.wikipedia.org/wiki/List_of_feline_diseases')
+def scrape_list(link):
+    page = requests.get(link)
     soup = BeautifulSoup(page.content, 'html.parser')
     title = soup.find('h1').text
     f = open(title + '.txt', 'w', encoding='utf-8')
@@ -35,3 +35,6 @@ if __name__ == '__main__':
             if link:
                 scrape(link)
     f.write(re.sub('[\[].*?[\]]', '', output.strip()))
+
+if __name__ == '__main__':
+    scrape_list('https://en.wikipedia.org/wiki/List_of_feline_diseases')
